@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sriya T.
-- 👀 I’m a front-end web developer working with technologies like React.Js, Redux, Javascript, HTML5, CSS3.
+- 👀 I’m a front-end web developer working with technologies like React.Js, Next.JS, Javascript, Typescript, HTML5, CSS3.
 - 🌱 Currently exploring more on Next.js, web performance optimization and webpack configuration.
 - 📫 Can watch out my work at -- https://my-portfolio-version1.netlify.app/ or https://my-personal-website-react.netlify.app/
 
